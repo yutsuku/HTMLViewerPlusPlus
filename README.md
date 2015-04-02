@@ -1,7 +1,7 @@
 HTMLViewer++
 ============
 
-HTMLViewer++ is an basic html file browser for Android 2.*
+HTMLViewer++ is a basic html file browser for Android 2.*
 
 Features:
 - Lightweight (36KiB)
